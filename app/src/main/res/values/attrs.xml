@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableTextViewAttr">
+        <!--允许显示的最大行数-->
+        <attr name="maxExpandLines" format="integer"/>
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+</resources>
